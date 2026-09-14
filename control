@@ -1,0 +1,9 @@
+Package: com.theonno.imguimetaltweak
+Name: ImGuiMetalTweak
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: ImGui menu for iOS games using Metal
+Maintainer: TheOnno
+Author: TheOnno (@0jumel on discord)
+Section: Tweaks
+Depends: mobilesubstrate
